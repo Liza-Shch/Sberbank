@@ -1,0 +1,9 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+  }
+
+  input {
+    font-size: 100%;
+  }
