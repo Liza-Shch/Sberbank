@@ -1,0 +1,23 @@
+html, body {
+    font-size: calc(10px + 0.5vw);
+}
+
+#login {
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+
+.inline {
+    display: inline-block;
+}
+
+input, button {
+    font-size: 1rem;
+}
+
+a:hover {
+    color: red;
+}
+
